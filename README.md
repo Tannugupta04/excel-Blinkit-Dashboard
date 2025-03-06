@@ -1,4 +1,4 @@
-[LINK TO THE DASHBOARD](<iframe width="550px" height="650px" src="https://1drv.ms/x/c/191d5a7cf96b6d9c/EU-xnu3ceShCiF9970H9ynQBFV607oeact0aB-L0bNmY9Q?e=67eFB5&action=embedview&wdbipreview=true&wdAllowInteractivity=True&wdHideHeaders=True"></iframe>)
+[Link to Dashboard](https://1drv.ms/x/c/191d5a7cf96b6d9c/EU-xnu3ceShCiF9970H9ynQBFV607oeact0aB-L0bNmY9Q?e=67eFB5&action=embedview&wdbipreview=true&wdAllowInteractivity=True&wdHideHeaders=True)
 
 
 
